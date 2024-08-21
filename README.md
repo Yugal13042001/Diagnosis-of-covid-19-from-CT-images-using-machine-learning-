@@ -77,9 +77,4 @@ The final model was selected based on its performance on the validation set.
 The model achieved strong performance, demonstrating its ability to accurately diagnose COVID-19 from CT images.
 
 
-## Acknowledgements
-
-- Special thanks to the creators of the dataset.
-- Thanks to the open-source community for providing the tools and libraries used in this project.
-- [Any other acknowledgments]
 
